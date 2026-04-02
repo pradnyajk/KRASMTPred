@@ -1,7 +1,6 @@
 # 🧬 KRASMTPred
 
 ## Multi-Task Deep Neural Network for Prediction of GTPase KRas Inhibitors and IC₅₀ Values
-
 ---
 
 ## 📖 Overview
