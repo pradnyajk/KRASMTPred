@@ -112,7 +112,7 @@ A reference file (`sample.csv`) is provided.
 
 ## 🚀 Usage
 
-You can run GSK3BMTPred using either a prebuilt Docker image or by building locally.
+You can run KRASMTPred using either a prebuilt Docker image or by building locally.
 
 ---
 
